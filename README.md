@@ -17,9 +17,9 @@
 I'm a Full Stack Software Engineer soon to be based in NYC.
 
 - 🌱 I’m currently learning: data structures and algorithms. 
-- 👯 I’m looking to collaborate on full stack applications.
+- 👯 I’m looking to join a company and team to collaborate on impactful products.
 - 📫 How to reach me: katdianemiller@gmail.com
-- ⚡ Fun fact: I'm a weightlifter and in my free time, I also love traveling, hiking and spending time with family and friends.
+- ⚡ Fun fact: I'm a weightlifter and in my free time, I also love traveling, hiking and working on creative projects.
 
 ## :hammer_and_wrench: Languages and Tools :
 
