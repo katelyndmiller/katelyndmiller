@@ -1,6 +1,5 @@
-<h1>
-  Hi, I'm Katelyn
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+<h1 align="center">
+  Hey, I'm Katelyn!
 </h1>
 
 <div id="header" align="center">
@@ -14,12 +13,11 @@
 </div>
 <br/> <br/>
 
-I'm a Full Stack Software Engineer soon to be based in NYC.
+I'm a Full Stack Software Engineer based in New York City.
 
-- 🌱 I’m currently learning: data structures and algorithms. 
-- 👯 I’m looking to join a company and team to collaborate on impactful products.
+- 🌱 I’m currently learning: data structures and algorithms and Python.
 - 📫 How to reach me: katdianemiller@gmail.com
-- ⚡ Fun fact: I'm a weightlifter and in my free time, I also love traveling, hiking and working on creative projects.
+- ⚡ Fun fact: When I'm not in front of a screen, I love traveling, hiking and working on creative projects.
 
 ## :hammer_and_wrench: Languages and Tools :
 
