@@ -5,7 +5,7 @@ Fullstack Software Engineer
 ---------------------------
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [here](http://katelynmiller.netlify.app/)
+* 🖥️  See my portfolio [here](http://katelynmiller.netlify.app/)
 * ✉️  You can contact me at [katdianemiller@gmail.com](mailto:katdianemiller@gmail.com)
 * 🧠  I'm learning Python and Data Structures & Algorithms
 * ⚡  When I'm not coding, I love hiking, exploring new places, and working on creative projects.
