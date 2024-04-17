@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Katelyn!
+Hi! My name is Katelyn.
 ================================================================================================================================
 
 Fullstack Software Engineer
@@ -6,7 +6,7 @@ Fullstack Software Engineer
 
 * 🌍  Currently based in NYC
 * ✉️  You can contact me at [katdianemiller@gmail.com](mailto:katdianemiller@gmail.com)
-* ⚡  When I'm not coding, I love hiking, exploring new places, and working on creative projects.
+* ⚡  I love hiking, traveling, and working on creative projects.
 
 ### Skills
 
