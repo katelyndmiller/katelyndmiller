@@ -4,7 +4,7 @@ Hi! My name is Katelyn.
 Fullstack Software Engineer
 ---------------------------
 
-* 🌍  Currently based in NYC
+* 🌍  Currently based in Weehawken, NJ
 * ✉️  You can contact me at [katdianemiller@gmail.com](mailto:katdianemiller@gmail.com)
 * ⚡  I love hiking, traveling, and working on creative projects.
 
