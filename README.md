@@ -6,7 +6,7 @@ Fullstack Software Engineer
 
 * 🌍  Currently based in Weehawken, NJ
 * ✉️  You can contact me at [katdianemiller@gmail.com](mailto:katdianemiller@gmail.com)
-* ⚡  I love hiking, traveling, and working on creative projects.
+* ⚡  I love hiking, traveling, and baking.
 
 ### Skills
 
